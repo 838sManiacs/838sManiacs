@@ -2,6 +2,8 @@
 #### ▼My Nintendo Store▼
 **https://store-jp.nintendo.com/list/software/70010000043665.html** 
 
-
 #### ▼STEAM▼ 
 **https://store.steampowered.com/developer/838sManiacs**
+
+#### ▼ITCH.IO▼
+**https://838smaniacs.itch.io/**
