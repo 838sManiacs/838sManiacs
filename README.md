@@ -5,5 +5,8 @@
 #### ▼STEAM▼ 
 **https://store.steampowered.com/developer/838sManiacs**
 
+#### ▼Epic Games▼
+**https://store.epicgames.com/en-US/p/cruelty-f90dfa**
+
 #### ▼ITCH.IO▼
 **https://838smaniacs.itch.io/**
